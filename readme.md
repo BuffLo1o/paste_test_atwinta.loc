@@ -1,0 +1,1 @@
+# Paste project - test task from Goodline
